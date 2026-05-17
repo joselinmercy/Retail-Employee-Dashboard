@@ -24,10 +24,11 @@ This project is created using Power BI and MySQL to analyze retail employee and 
 
 
 ### MySQL Queries
-(Add query screenshot here)
+<img width="1920" height="1008" alt="mysql_queries" src="https://github.com/user-attachments/assets/c7bb35ea-ef79-4025-bf47-170a37af59c5" />
+
 
 ### Power Query
-(Add power query screenshot here)
+<img width="1920" height="1008" alt="power_query" src="https://github.com/user-attachments/assets/2a3ce60f-6c43-41a2-adcf-5480a4f0fc62" />
 
 ## Author
 Joselin Mercy
