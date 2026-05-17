@@ -19,7 +19,8 @@ This project is created using Power BI and MySQL to analyze retail employee and 
 ## Screenshots
 
 ### Dashboard
-(Add dashboard screenshot here)
+
+![Uploading dashboard.png…]()
 
 ### MySQL Queries
 (Add query screenshot here)
